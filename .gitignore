@@ -8,3 +8,4 @@
 */datasets/
 */stubs/
 */model/
+**/yolov8x.pt
