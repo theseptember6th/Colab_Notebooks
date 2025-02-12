@@ -1,2 +1,5 @@
 __pycache__/
 *.exe
+*/output_videos/
+*/runs/
+*/datasets/
